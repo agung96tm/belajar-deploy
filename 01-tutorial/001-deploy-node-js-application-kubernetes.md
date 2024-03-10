@@ -1,1 +1,0 @@
-Deployment Aplikasi Node JS dengan Kubernetes

@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Belajar Deploy"
+  name: "Belajar Deploy NodeJS"
   text: "Buat aplikasimu tidak hanya di localhost"
 
 features:

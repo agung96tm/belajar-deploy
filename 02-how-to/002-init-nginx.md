@@ -1,1 +1,0 @@
-Menginstall dan menjalankan Nginx
