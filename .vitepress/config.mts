@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Belajar Deploy NodeJS",
-  description: "Belajar Deploy untuk Pemula dan Mahir",
+  title: "Deploy NodeJS",
+  description: "Belajar Deploy untuk yang Pemula dan Mahir",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
