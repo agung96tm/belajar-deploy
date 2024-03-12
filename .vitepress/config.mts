@@ -44,7 +44,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/agung96tm' },
+      { icon: 'github', link: 'https://github.com/agung96tm/deploy-nodejs' },
       { icon: 'linkedin', link: 'https://id.linkedin.com/in/agung96tm'},
     ]
   }
